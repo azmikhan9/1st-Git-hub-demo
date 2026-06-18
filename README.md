@@ -1,6 +1,4 @@
-# 1st-Git-hub-demo
+# GIT Hub DEMO
 This is my first Git Repository
 <br>
- Author- Azmi (Git hub)
- 
-
+ Author - Azmi Khan(Git hub)
